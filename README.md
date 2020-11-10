@@ -55,12 +55,19 @@ This project contains 5 files:
         
 
 References:
+
     https://www.alltestanswers.com/python-program-that-implements-the-fifo-lru-and-optimal-page-replacement-algorithms/
+
     https://www.geeksforgeeks.org/program-page-replacement-algorithms-set-2-fifo/
+
     https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/
+
     https://www.youtube.com/watch?v=rmhZrLxYOCY&list=PL4KOaah3haN4qdmy6io1lW9RoQ6PFXNhh&index=6
+
     https://www.youtube.com/watch?v=KP8AmZU08nc&list=PL4KOaah3haN4qdmy6io1lW9RoQ6PFXNhh&index=7
+
     Book: Modern Operating Systems, 3/E by A. Tanenbaum
+    
     Classmate: Daniel Suazo helped me understand the WSClock Page Replacement Algorithm
 
  
