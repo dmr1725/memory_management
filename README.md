@@ -1,4 +1,5 @@
 Author: Diego Mendez
+
 Requirements: Python3
 
 NOTE: This document gives an overview of the project. For more info about each algorithm, go to each file. Each file has a more detailed 
@@ -15,6 +16,7 @@ the number of page faults they return. The less the number of page faults, the m
 we're trying to minimize the number of page faults
 
 This project contains 5 files:
+
     1. sequence.txt: this file contains our input with the given notation (Operation:page address). Ex: R:1 R:2 W:4 R:3 
 
     2. parse.py: this file contains a function called 'parse' that returns an array of the pages that we are going to use
@@ -32,6 +34,7 @@ This project contains 5 files:
        our input file. 
   
   To run programs:
+
     1. lifo.py: 
         Standard: 
                 python lifo.py <Number of physical memory pages> <access sequence file>
